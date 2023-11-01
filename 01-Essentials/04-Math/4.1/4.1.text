@@ -1,0 +1,4 @@
+Write a script that ask the user to
+ Enter the value of a circle’s radius in order to calculate its area as shown in fig.
+ Enter another value to calculate its square root and alert the result as shown in fig.
+ Enter an angle to calculate its cos value then display the output as shown in Fig.
