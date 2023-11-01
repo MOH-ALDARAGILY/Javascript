@@ -1,0 +1,1 @@
+2.2. Write a script to determine whether the entered string is palindrome or not. Request the string to be entered via prompt, ask the user whether to consider case sensitivity of the entered string or not via confirm, handle both cases in your script
